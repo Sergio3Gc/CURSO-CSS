@@ -1,0 +1,22 @@
+p {
+  text-align: center;
+  color: red;
+}
+
+selector de identificación
+#para1 {
+  text-align: center;
+  color: red;
+}
+
+selector de clases
+.center {
+  text-align: center;
+  color: red;
+}
+
+ selector universal
+* {
+  text-align: center;
+  color: blue;
+}
