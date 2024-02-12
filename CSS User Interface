@@ -1,0 +1,4 @@
+div {
+  resize: horizontal;
+  overflow: auto;
+}
